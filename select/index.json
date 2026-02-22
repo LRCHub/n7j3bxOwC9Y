@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "にじさんじ - Hurrah!! [Official Music Video]",
+  "base_artist": "にじさんじ",
+  "createdAt": "2026-02-22T17:46:44.325829Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hurrah!!",
+      "artist": "にじさんじ",
+      "has_synced": false,
+      "path": "select/pl_01_Hurrah!!_にじさんじ.txt"
+    }
+  ]
+}
